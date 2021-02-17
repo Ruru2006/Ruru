@@ -1,5 +1,4 @@
 # Ruru
-test repository
 <!DOCTYPE html>
 <html>
 
